@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "th9HumtIfpTXCgFkdMTTpx6GS7y/aUrhw+Z84YB6Oe58WPaHxk/NAI6Aaa7fNU48i2tnDEURmKSV6Zcj1V9f7g==",
+  "success": true,
+  "projectFilePath": "/Users/ramandeepsingh/Desktop/Dos/project3/project3.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ramandeepsingh/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
